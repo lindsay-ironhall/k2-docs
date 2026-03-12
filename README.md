@@ -19,11 +19,11 @@ K2 is a decentralized borrowing and lending protocol deployed on Stellar's Sorob
 
 | I want to... | Go to |
 |---|---|
-| Deposit and earn yield | [Supplying Assets](core-features/supplying-assets.md) |
-| Take out a loan | [Borrowing](core-features/borrowing.md) |
-| Understand my health factor | [Health Factor](concepts/health-factor.md) |
-| Learn about liquidation | [Liquidation](concepts/liquidation.md) |
-| Understand interest rates | [Reserves and Interest Rates](concepts/reserves-and-interest-rates.md) |
+| Deposit and earn yield | [Supplying Assets](supplying-assets.md) |
+| Take out a loan | [Borrowing](borrowing.md) |
+| Understand my health factor | [Health Factor](health-factor.md) |
+| Learn about liquidation | [Liquidation](liquidation.md) |
+| Understand interest rates | [Reserves and Interest Rates](reserves-and-interest-rates.md) |
 | View all fees | [Fees](fees.md) |
 
 ---
